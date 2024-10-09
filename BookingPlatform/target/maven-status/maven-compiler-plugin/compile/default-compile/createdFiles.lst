@@ -1,0 +1,6 @@
+com\aundrich\bookingplatform\DatabaseConnection.class
+com\aundrich\bookingplatform\Booking.class
+com\aundrich\bookingplatform\servlet\request.class
+com\aundrich\bookingplatform\servlet\ViewBookingsServlet.class
+com\aundrich\bookingplatform\servlet\ConsultationServlet.class
+com\aundrich\bookingplatform\servlet\SubmitServlet.class
