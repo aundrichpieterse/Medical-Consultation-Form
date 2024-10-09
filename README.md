@@ -12,7 +12,7 @@ Features
 
 Technologies Used
 
-    Java EE (Servlets) for backend logic and form handling
+    Java EE (Servlets/JSP) for backend logic and form handling
     MySQL for database management
     JSP/CSS for front-end form design
     JDBC for database connection and queries
